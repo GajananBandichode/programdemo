@@ -1,3 +1,3 @@
 # programdemo
-This is my first Git Repository
-Author - Gajanan 
+This is my first Git Repository<br>
+Author - <b>Gajanan<b> 
