@@ -3,7 +3,7 @@
 <html>
   <head><title>simple program</title></head>
   <body>
-This is my first Git Repository<br>
-Author - <b>Gajanan<b> 
+<p>This is my first Git Repository<br></p>
+<h1 style="colour blue">Author - <b>Gajanan<b></h1> 
 </body>
 </html>
